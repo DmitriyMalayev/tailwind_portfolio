@@ -1,6 +1,5 @@
 module.exports = {
-  purge: [],
-  darkMode: false,
+  media: false,
   theme: {
     extend: {
       colors: {
@@ -12,6 +11,9 @@ module.exports = {
         badge: "#3F3F51",
         "input-border": "#565666",
         input: "#2A2A35",
+      },
+      fontFamily: {
+        poppings: ["'Poppings'", "sans-serif"],
       },
     },
   },
