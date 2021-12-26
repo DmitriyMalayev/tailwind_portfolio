@@ -1,5 +1,4 @@
 module.exports = {
-  media: false,
   theme: {
     extend: {
       colors: {
