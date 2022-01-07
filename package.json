@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DmitriyMalayev/tailwind_portfolio/issues"
   },
-  "homepage": "https://github.com/DmitriyMalayev/tailwind_portfolio#readme"
+  "homepage": "https://github.com/DmitriyMalayev/tailwind_portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.11"
+  }
 }
