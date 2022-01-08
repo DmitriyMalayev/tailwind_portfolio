@@ -4,7 +4,7 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./src/input.css -w"
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css -w"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DmitriyMalayev/tailwind_portfolio#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.11"
+  },
+  "dependencies": {
+    "node": "^17.3.0"
   }
 }
